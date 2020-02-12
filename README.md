@@ -10,4 +10,4 @@ File structure:
 
 ## Citation
 Please cite our paper as:
->Le, N.Q.K., Yapp, E.K.Y. & Yeh, H. ET-GRU: using multi-layer gated recurrent units to identify electron transport proteins. *BMC Bioinformatics* 20, 377 (2019). https://doi.org/10.1186/s12859-019-2972-5
+>Le, N.Q.K., Yapp, E.K.Y. & Yeh, H.Y. ET-GRU: using multi-layer gated recurrent units to identify electron transport proteins. *BMC Bioinformatics* 20, 377 (2019). https://doi.org/10.1186/s12859-019-2972-5
